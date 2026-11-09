@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  padding: 20px;
+  background-color: #eef1f6;
+  color: #1f2933;
+}
+
+h1 {
+  color: #1d3a6e;
+}
+
+.card {
+  margin-bottom: 24px;
+  padding: 20px;
+  background-color: #ffffff;
+  border: 1px solid #c8d0dc;
+}
+
+.button {
+  padding: 8px 16px;
+  background-color: #1d3a6e;
+  color: #ffffff;
+  border: 1px solid #1d3a6e;
+}
+
+.message {
+  padding: 10px;
+  background-color: #f2f6fc;
+  border: 1px solid #c8d0dc;
+}
+
+.error {
+  padding: 10px;
+  background-color: #fdecec;
+  color: #a12020;
+  border: 1px solid #e3a5a5;
+}
